@@ -1,0 +1,5 @@
+
+|squid:UselessImportCheck"LRemove this unused import 'org.jboss.netty.handler.codec.http.HttpResponse'.(Θ¶Ήόÿÿÿÿ8…†Òκ-
+Isquid:S1135"2Complete the task associated to this TODO comment.(Ε«—Ρ
+Ί%squid:RedundantThrowsDeclarationCheck "}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ιψÿÿÿÿ8δχάκ-
+nsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Α¨ολ8‹Ϋάκ-
